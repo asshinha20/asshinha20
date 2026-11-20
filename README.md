@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>- 🎓 Studying Mathematics at SUST, Sylhet<br>- 🤖 AI Prompt Engineer: designing and testing prompts for AI tools<br>- 🔭 Currently working on: [your project name]<br>- 🌱 Currently learning: Python, advanced algorithms<br>- 💬 Ask me about: Prompt engineering, DSA, C/C++<br>- 📍 Based in: Sylhet, Bangladesh<br><br>## Skills<br><br>**Languages:** C, C++, Python<br>**Core:** Data Structures & Algorithms, Problem Solving<br>**AI:** Prompt Engineering, LLM tools, Workflow design<br>**Tools:** Git, GitHub, VS Code
+## About Me<br><br>- 🎓 Studying Mathematics at SUST, Sylhet<br>- 🤖 AI Prompt Engineer: designing and testing prompts for AI tools<br>- 🔭 Currently working on: [WEB DEVELOPMENT]<br>- 🌱 Currently learning: Python, advanced algorithms<br>- 💬 Ask me about: Prompt engineering, DSA, C/C++<br>- 📍 Based in: BOGURA, Bangladesh<br><br>## Skills<br><br>**Languages:** C, C++, Python<br>**Core:** Data Structures & Algorithms, Problem Solving<br>**AI:** Prompt Engineering, LLM tools, Workflow design<br>**Tools:** Git, GitHub, VS Code
 
 
 ## 🌐 Socials:
